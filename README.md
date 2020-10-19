@@ -20,7 +20,7 @@ Overall scores went down with the removal of the scores belonging to Thomas High
 
 ### Findings
 - Average Math Score is reduced by 0.1
-- Average Reading score
+- Average Reading score has no change
 - % Passing Math is reduced by 0.2%
 - % Passing Reading is reduced by 0.3%
 - % Overall Passing is reduced by 0.1%
