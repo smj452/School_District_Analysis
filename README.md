@@ -44,17 +44,15 @@ By replacing 9th grader math and reading scores to NaN, the "% Passing Math", "%
 
 ### 4. How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
 
-**Math Scores without THS 9th graders**
+**Math Scores**
 ![Math_scorewithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/math_score_withoutTHS.png)
 
-**With THS 9th graders** 
 ![Math_scorewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/math_score_withTHS.png)
 
-**Reading Score without THS 9th graders**
+**Reading Score**
 ![Reading_scorewithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Reading_score_withoutTHS.png)
 
-**Reading Score with THS 9th graders**
-![Reading_scorewithTHS]()
+![Reading_scorewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Reading_score_withTHS.png)
 
 **Scores by school spending**
 
@@ -79,7 +77,6 @@ From these images we can depict that "Average Math Score", "Average Reading Scor
 ![scores_by_schooltypewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschooltype_withTHS.png)
 
 From the above images we can say that the "Average Math Score", "Average Reading Score", "% Passing Math", "% Passing Reading" and "% Overall Passing" for either Charter or District school aren't affected by the removal of the ninth-grade scores.
-
 ## Summary
 
 Impact from replacing 9th graders Math and Reading scores:
