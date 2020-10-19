@@ -28,7 +28,6 @@ Overall scores went down with the removal of the scores belonging to Thomas High
 ### 2. How is the school summary affected? 
 
 With no changes made to the data of Thomas High School 9th grade scores, the "% Passing Math", "% Passing Reading" and "% Overall Passing numbers are 93.272171, 97.308869 and 90.948012 respectively.
-
 While replacing the 9th grader scores to NaN, the percentages declined to 66.911315, 69.663609 and 65.076453.
 
 **School Summary without THS 9th graders**
@@ -36,6 +35,7 @@ While replacing the 9th grader scores to NaN, the percentages declined to 66.911
 ![SchoolSummarywithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/School_Summary_withoutTHS.png)
 
 **School Summary with THS 9th graders**
+
 ![SchoolSummarywithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/School_Summary_withTHS.png)
 
 ### 3. How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
