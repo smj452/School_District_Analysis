@@ -62,7 +62,7 @@ By replacing 9th grader math and reading scores to NaN, the "% Passing Math", "%
 
 ![scores_by_schoolspendingwithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschoolspending_withTHS.png)
 
-From the above images we can clearly see that is no change in "Average Math Score", "Average Reading Score ", "% Passing Math", "% Passing Reading" and "% Overall Passing" for any of the spending bin ranges per student.
+From the above images we can clearly see that there is no change in "Average Math Score", "Average Reading Score ", "% Passing Math", "% Passing Reading" and "% Overall Passing" for any of the spending bin ranges per student.
 
 **Scores by school size**
 
