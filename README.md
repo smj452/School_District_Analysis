@@ -40,7 +40,7 @@ While replacing the 9th grader scores to NaN, the percentages declined to 66.911
 
 ### 3. How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
-By replacing 9th grader math and reading scores to NaN, the "% Passing Math", "% Passing Reading" and "% Overall Passing numbers declined by 18-26%
+By replacing Thomas High Schools' 9th grade math and reading scores with NAN their scores drop, in the previous exercise Thomas High School was the 2nd best high school but now they are the 7th best high school.
 
 ### 4. How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
 
