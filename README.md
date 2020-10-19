@@ -48,33 +48,42 @@ With making 9th grader math and reading scores to NaN, the "% Passing Math", "% 
 
 ![Math_scorewithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/math_score_withoutTHS.png)
 
+
 ![Math_scorewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/math_score_withTHS.png)
+
 
 **Reading Score**
 
 ![Reading_scorewithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Reading_score_withoutTHS.png)
 
+
 ![Reading_scorewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/math_score_withTHS.png)
+
 
 **Scores by school spending**
 
 ![scores_by_schoolspendingwithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschoolspending_withoutTHS.png)
 
+
 ![scores_by_schoolspendingwithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschoolspending_withTHS.png)
 
 From the above image we can clearly see that is no change in "Average Math Score", "Average Reading Score ", "% Passing Math", "% Passing Reading" and "% Overall Passing" for any of the spending bin ranges per student.
+
 
 **Scores by school size**
 
 ![scores_by_schoolsizewithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschoolsize_withoutTHS.png)
 
+
 ![scores_by_schoolsizewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschoolsize_withTHS.png)
 
 From these images we can depict that "Average Math Score", "Average Reading Score", "% Passing Math", "% Passing Reading" and "% Overall Passing" for any of the school size ranges aren't affected by removal of the ninth-grade scores.
 
+
 **Scores by school type**
 
 ![scores_by_schooltypewithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschooltype_withoutTHS.png)
+
 
 ![scores_by_schooltypewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/Scoresbyschooltype_withTHS.png)
 
