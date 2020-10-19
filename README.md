@@ -8,7 +8,7 @@ After removing the reading and math scores:
 
 ### 1. How is the district summary affected?
 
-Overall scores went down with the removal of the scores belonging to Thomas High School 9th grade students.  Below is a before and after snapshot 
+Overall scores went down with the removal of the scores belonging to Thomas High School 9th grade students. Below is a before and after snapshot 
 
 **District Summary without THS 9th graders**
 
@@ -37,11 +37,13 @@ As the school summary has no bins based on performance ,the only school affected
 ![SchoolSummarywithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/School_Summary_withTHS.png)
 
 ### 3. How does removing the ninth graders’ math and reading scores affect Thomas High   School’s performance, relative to the other schools?
+
 By replacing 9th grader math and reading scores to NaN, the "% Passing Math", "%   Passing    Reading" and "% Overall Passing numbers declined by 18-26%
 
 ### 4. How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
 
 **Math Scores**
+
 ![Math_scorewithoutTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/math_score_withoutTHS.png)
 ![Math_scorewithTHS](https://github.com/smj452/School_District_Analysis/blob/main/Resources/math_score_withTHS.png)
 
